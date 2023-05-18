@@ -25,3 +25,26 @@ header {
   /* BACKGROUND */
   background-color: #343a40;
 }
+
+nav {
+  /* NAV SIZINGG */
+  padding: 1vh 1vh;
+
+  /* TEXT STYLE */
+  text-align: center;
+
+  /* BACKGROUNG */
+  background-color: #495057;
+}
+
+nav a:is(:visited, :link) {
+  /* nav a SIZING */
+  padding: 0vw 2vw 0vw 2vw;
+
+  /* TEXT STYLE */
+  color: #f1f3f5;
+  text-decoration: none;
+
+  /* BACKGROUND */
+  background-color: inherit;
+}
