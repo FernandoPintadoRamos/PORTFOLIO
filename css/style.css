@@ -1,4 +1,27 @@
 * {
   margin: 0;
   padding: 0;
+
+  background-color: #212529;
+
+  margin: auto;
+  font-family: sans-serif;
+}
+
+body {
+  /* BODY SIZING */
+  width: 80%;
+}
+
+header {
+  /* HEADER SIZING */
+  padding: 3vh 2vh;
+
+  /* TEXT STYLE */
+  color: #f1f3f5;
+  text-align: center;
+  font-size: 3vh;
+
+  /* BACKGROUND */
+  background-color: #343a40;
 }
